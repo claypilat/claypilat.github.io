@@ -119,3 +119,4 @@ The Plan is more cost effective the buying individual apps. It also makes it eas
 - Avoids writing code or 3rd part yools for migration 
  
  !> It's important to note that data (Millions of Records or Huge data) must be available in Azure in the same tenant as Dynamics 365 to use Data Loader Service. If it's not in Azure & same tenant, Data Loader Service cannot be used.
+
