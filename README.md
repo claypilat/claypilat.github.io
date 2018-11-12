@@ -58,7 +58,7 @@ The Business edition includes Sales, Marketing and Financials.
 - Retail
 - Talent 
 
-# Plans and Pricing & User Types 
+# Deployment Plan for Clients 
 
 > User License type
 
@@ -76,3 +76,14 @@ Team Members: Light users
 Device Licensing: For share device scenarios. 
 
 The Plan is more cost effective the buying individual apps. It also makes it easier to scale later on. 
+
+- Using Microsoft Dynamics NAV or AX? Plan for Migration to Dynamics 365 Financials And Operations. 
+- Using another Software - Identify Functionalities to use in microsoft Dynamics 365. 
+
+> Questions to consider
+
+- You might need to also reconsider business processes mapping. This will improve business processes and standardise them. 
+- How many users will be using Dynamics 365?
+- What will be the roles of those users? (Consider roles & responsibilities mapping)
+- Data migration strategies and plan 
+- Downtime planning and backlog
