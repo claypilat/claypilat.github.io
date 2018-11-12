@@ -1,4 +1,6 @@
-## Sandbox Instances (Non-Production)
+## Instances
+
+> Sandbox Instances
 
 Used for the following:
 - Development & Customisation 
@@ -8,7 +10,7 @@ Used for the following:
 - Various Demos 
 You can reset the sanbox instance and this deletes all of the data and refreshes the instance. 
 
-## How to get instances
+> How to get instances
 
 Within the trial subscription
 - Only get one instance
