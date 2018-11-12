@@ -26,3 +26,9 @@ Within Paid subscriptions
 - You get two instances
 - Additional instances can be purchased as add-ons
 - Its reccomended that you have 1 production instance and two sandbox ones. 
+
+## Managing Instances
+
+Its possible to swtich an instance from Production to Sandbox OP Sandbox to Production. Its also possile to reset a Sandbox instance but not the production one. Its also possible to delete a sandbox instance, but again, not the Production instance. It's possible to copy the Dynamics 365 application and all data from any instance to a Sandbox instance.
+
+There are two copy types, Full(without production data), and Minimal (without production data.) This is only available for paid Dynamics subscriptions.
