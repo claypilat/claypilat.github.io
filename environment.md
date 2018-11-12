@@ -49,3 +49,9 @@ Microsoft Could Germany (crm.microsoftdynamics.de)
 ```
 
 Storage is allocated to Subscriptions not instances. This includes production as well as sandbox. And buying new instances does not add more storage to the account. A notification will be sent to the Administrator on consuming 80% pf the storage available. Additional storage can be purchased if need be. 
+
+
+> Notifications
+
+- Emails are sent to Administrators by default
+- New recipiants can be added to instance level 
