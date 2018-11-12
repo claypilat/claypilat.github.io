@@ -36,14 +36,14 @@ There are two copy types, Full(without production data), and Minimal (without pr
 
 Available Regions
 ```
-North America
-South America
-Canada
-EMEA
-APAC
-Australia
-Japan
-India
-United Kingdom
-Microsoft Could Germany 
+North America (crm.dynamics.com)
+South America (crm2.dynamics.com)
+Canada (crm3.dynamics.com)
+EMEA (crm4.dynamics.com)
+APAC (crm5.dynamics.com)
+Australia (crm6.dynamics.com)
+Japan (crm7.dynamics.com)
+India (crm8.dynamics.com)
+United Kingdom (crm9.dynamics.com)
+Microsoft Could Germany (crm.microsoftdynamics.de)
 ```
