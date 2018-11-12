@@ -65,3 +65,5 @@ Microsoft delivers new features and updates to the Dynamics environment twice pe
 You should always apply the updates to the sandbox instance first. After the update is successful, schedule the update for production. Updates are applicable to individual instances. Once the update is released notifications are sent to administrators. You can view all the available updates from the Dynamics Admin center. Updates need to be approved before they take place. 
 
 !> Instances are not available to users when the update is in progress.
+
+The chosen time and dates for the updates and provided by Microsoft. If you miss two updates in a row, then you are forced to do a mandatory update. 
