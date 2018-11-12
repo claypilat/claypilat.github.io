@@ -66,4 +66,6 @@ You should always apply the updates to the sandbox instance first. After the upd
 
 !> Instances are not available to users when the update is in progress.
 
-The chosen time and dates for the updates and provided by Microsoft. If you miss two updates in a row, then you are forced to do a mandatory update. 
+The chosen time and dates for the updates and provided by Microsoft. To avoid rush and last moment errors, plan updates in advance with your implementation partner. 
+
+!> If you miss two updates in a row, then you are forced to do a mandatory update. 
