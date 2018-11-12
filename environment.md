@@ -55,3 +55,11 @@ Storage is allocated to Subscriptions not instances. This includes production as
 
 - Emails are sent to Administrators by default
 - New recipiants can be added to instance level 
+
+## Updates
+
+Microsoft delivers new features and updates to the Dynamics environment twice per year. Its mandatory to apply one update per year. 
+
+!> Its reccomended that yu apply one update per year 
+
+You should always apply the updates to the sandbox instance first. After the update is successful, schedule the update for production. 
