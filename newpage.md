@@ -34,7 +34,7 @@ Its possible to swtich an instance from Production to Sandbox OP Sandbox to Prod
 
 There are two copy types, Full(without production data), and Minimal (without production data.) This is only available for paid Dynamics subscriptions. You must jabe at least one Sandbox instance in addition to the Production instance. All instances are available within a tenant (Office 365 account). A tenant can have maximum 50 production instances and 75 sandbox instances. When setting up instances, you must specify the region which they belong to. For paid subscriptions all instances are created in the same region. 
 
-Available Regions
+### Available Regions
 ```
 North America (crm.dynamics.com)
 South America (crm2.dynamics.com)
