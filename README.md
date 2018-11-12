@@ -146,3 +146,13 @@ For development purposes use the option which states "Are you signing up on beha
 
  Within Dynamics to assign a security role 
 ```Settings > Security > Users > Add a role to the user ``` 
+
+- The office 365 Users & Active Directory Users are different
+- Users will need to manage 2 accounts 
+- To reduce administration effort, Sync Azure AD & Internal AD
+- You need: to configure ADFS & Enable SSO.
+- After SSO Implementation:
+    - Single Account is used to login Dynamics 365 & Internal Applications
+    - No need to remember 2 account details.
+    - Seamless access to Dynamics 365.
+    - Single point to administer user & Security 
