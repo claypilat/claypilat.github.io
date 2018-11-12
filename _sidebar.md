@@ -1,6 +1,11 @@
-- Dynamics Exams
+- Dynamics MB2-715
 
-  - [Dynamics MB2-715](README.md)
-  - [Dynamics MB2-716](newpage.md)
+  - [Create A Customer Organisational Structure](README.md)
+  - [Administer the Dynamics 365 Environment](newpage.md)
+  - [Integrate Dynamics with other applications](newpage.md)
+  - [Manage Microsoft Outlook and Mobile Enviroments](newpage.md)
 
-- Javascript 
+
+
+ 
+- Dynamics MB2-716
