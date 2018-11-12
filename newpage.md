@@ -10,6 +10,12 @@ Used for the following:
 - Various Demos 
 You can reset the sanbox instance and this deletes all of the data and refreshes the instance. 
 
+> Production Instances
+- Used for day-to-day live business transactions.
+- No R&D or Development is done on production instance.
+- Only authorized users are allowed to use production instance.
+- Production instance cannot be reset.
+
 > How to get instances
 
 Within the trial subscription
