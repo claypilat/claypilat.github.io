@@ -60,6 +60,6 @@ Storage is allocated to Subscriptions not instances. This includes production as
 
 Microsoft delivers new features and updates to the Dynamics environment twice per year. Its mandatory to apply one update per year. 
 
-!> Its reccomended that yu apply one update per year 
+!> Its reccomended that you apply one update per year. And apply the update to the sandbox first! 
 
-You should always apply the updates to the sandbox instance first. After the update is successful, schedule the update for production. 
+You should always apply the updates to the sandbox instance first. After the update is successful, schedule the update for production. Updates are applicable to individual instances. Once the update is released notifications are sent to administrators. 
