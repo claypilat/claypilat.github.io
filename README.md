@@ -1,4 +1,4 @@
-# Dynamics MB2-715
+
 
 ## Hardware Requirements & Supported Devices
 
@@ -118,5 +118,31 @@ The Plan is more cost effective the buying individual apps. It also makes it eas
 - Data is stored in Azure (mainly for large volume migration)
 - Avoids writing code or 3rd part yools for migration 
  
- !> It's important to note that data (Millions of Records or Huge data) must be available in Azure in the same tenant as Dynamics 365 to use Data Loader Service. If it's not in Azure & same tenant, Data Loader Service cannot be used.
+!> It's important to note that data (Millions of Records or Huge data) must be available in Azure in the same tenant as Dynamics 365 to use Data Loader Service. If it's not in Azure & same tenant, Data Loader Service cannot be used.
 
+
+## How To Sign Up and Cancel Subscriptions 
+
+- You get a free 30 day trial
+- Dont need to use a Credit Card
+- You can cancel anytime
+- You get access to Office 365 Admin Center 
+- An Office 365 subscription is not needed for Dynamics 365
+
+!> Go to https://trials.dynamics.com/ to sign up for a dynamics trial
+
+For development purposes use the option which states "Are you signing up on behalf of a customer or using this trial for development purposes?"
+
+- Once the country/region is chosen, you cannot change. 
+
+## Manage Users and Security Roles
+
+- You can add users within the Office 365 Admin Center 
+- You can manage subscriptions in the Office 365 Admin Center
+- Assign administrative rights in Office 365 Admin Center
+- Then you can assign a licence in office 365 to a user
+- After the user is created in office 365 admin center, it automatically synchronises with dynamics 365. 
+- At least one security role is required for the user to start using Dynamics 365 
+
+ Within Dynamics to assign a security role 
+```Settings > Security > Users > Add a role to the user ``` 
