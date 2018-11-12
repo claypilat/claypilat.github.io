@@ -93,8 +93,27 @@ The Plan is more cost effective the buying individual apps. It also makes it eas
 
 ## Data Import Planning 
 
-> Questions to ask the customer
+> Questions to ask the customer & Best Practices 
 
 - Whats the data source? (CRM On-Premise or other systems)
 - How much data to import? (Master data, Transactional data, or All data)
+- Data availability in the required format? (for importing the data)
+- Data cleansing (You need to cleanse the data before you import)
+- Duration for the Data Import? (This is always depended on how much data you have)-
+- Are we importing everything or doing some manual data entry?
+- Check the state of the record before importing the data. ( Finalised data can not be imported)
+- Downtime planning (Data import can take a long time so this is something you need to consider.)
 
+> Importing Data, supported methodologies 
+
+- If you have a small amount of data you can manually enter the data
+- Import data wizard. Import CSV files, map fields etc.
+- Data Loader Service  (Dependent on region location)
+- Using SDK (This requires programming and can be quite complex to import your data) 
+- Various third party tools such as Scribe. 
+
+> Data Loader Service
+
+- Data from On-remise solution to Dynamics 365 (You will need to use Azure)
+- Data is stored in Azure (mainly for large volume migration)
+- Avoids writing code or 3rd part yools for migration 
