@@ -1,6 +1,6 @@
 # Dynamics MB2-715
 
-# Hardware Requirements & Supported Devicess
+## Hardware Requirements & Supported Devices
 
 >Hardware requirements
 
@@ -24,7 +24,7 @@ I.E. 10 is not suppoeted for windows 10, 8,1 but is supported for windows 8 and 
 
 !> Latest updates can be found at https://technet.microsoft.com/en-us/library/hh699710.aspx/
 
-# Deployment of Microsoft Dynamics & Editions
+## Deployment of Microsoft Dynamics & Editions
 
 The best place to find out what is new, whats in development and whats been previously released, can be seen in the business roadmap. 
 
@@ -58,7 +58,7 @@ The Business edition includes Sales, Marketing and Financials.
 - Retail
 - Talent 
 
-# Deployment Plan for Clients 
+## Deployment Plan for Clients 
 
 > User License type
 
@@ -66,7 +66,7 @@ Full Access: Full access to business apps
 - Apps based
     - Individual business apps like sales, customer service, operations, etc. 
 - Plans Based
-    - Dynamics 365 Plan like customer engagement plan, etc
+    - (Customer engagement plan, Microsoft Dynamics 365 plan, etc.). Includes all Applications (Also known as Enterprise Edition with Plan Based Licensing)
 
 Team Members: Light users
 - Consume data or reports
@@ -87,3 +87,14 @@ The Plan is more cost effective the buying individual apps. It also makes it eas
 - What will be the roles of those users? (Consider roles & responsibilities mapping)
 - Data migration strategies and plan 
 - Downtime planning and backlog
+- Create a detailed project plan
+- Consult existing partnet or appoint a new partner
+- Planning is critical before you start!
+
+## Data Import Planning 
+
+> Questions to ask the customer
+
+- Whats the data source? (CRM On-Premise or other systems)
+- How much data to import? (Master data, Transactional data, or All data)
+
