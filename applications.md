@@ -54,3 +54,7 @@ By default, Microsoft Dynamics 365 does not have Documents common item for Accou
 - Onenote integration is available within Dynamics to keep notes or drawings
 - Sharepoint integration is mandatory for OneNote as notebooks are stored within SharePoint
 - You first need to enable OneNote Integration and then you can enalbe the OneNote feature on each entity as you require it
+
+``` 
+To enable goto Document management > Enable OneNote integration.   
+```
