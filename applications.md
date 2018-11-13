@@ -38,3 +38,19 @@ To enable goto Document management > Enable Server Based Sharepoint Integration
 ``` 
 To enable goto Document management > Enable OneDrive for Business  
 ```
+By default, Microsoft Dynamics 365 does not have Documents common item for Account form. Please follow the steps to make it visible:
+
+- PRE-REQUISITE: You must have already enabled SharePoint and OneDrive Integration.
+- Open any account record and click Form as shown below:
+- Click Navigation as shown below:
+- Drag the Documents relationship (from the Relationship Explorer on right side) to Common Navigation Area.
+- The Documents relationship is added. Click Save and then Publish.
+- Now close the above window, go to the accounts record and refresh the page.
+- Then click the common area explorer and then you will find Documents there.
+- From here, you can change the location of the documents upload and then click Upload to start uploading documents to SharePoint from within Dynamics 365.
+
+## Manage OneNote integration
+
+- Onenote integration is available within Dynamics to keep notes or drawings
+- Sharepoint integration is mandatory for OneNote as notebooks are stored within SharePoint
+- You first need to enable OneNote Integration and then you can enalbe the OneNote feature on each entity as you require it
