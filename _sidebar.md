@@ -15,4 +15,5 @@
 
     -[Introduction](introduction.md)
     -[Challenges](challenges.md)
+    -[Algorithms](algorithms.md)
 
