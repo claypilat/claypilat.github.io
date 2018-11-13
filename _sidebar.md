@@ -13,7 +13,7 @@
 
 - Programming  
 
-    -[Introduction](introduction.md)
-    -[Challenges](challenges.md)
-    -[Algorithms](algorithms.md)
+    - [Introduction](introduction.md)
+    - [Challenges](challenges.md)
+    - [Algorithms](algorithms.md)
 
