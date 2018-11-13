@@ -20,3 +20,21 @@ Server side synchronisation allows incoming and outgoing email functionality. No
 ``` 
 To enable goto Document management > Enable Server Based Sharepoint Integration 
 ```
+
+- With server based integration, users once signed in, do not have to sign in to both Microsoft Dynamics and Sharepoint
+- No additional software is required to install on SharePoint
+- Users can perform SharePoint actions from the Dynamics 365 command bar
+- Sharepoint documents will be displayed in Dynamics Lists 
+
+
+## Enable OneDrive for Business
+
+- Everyont is given 1TB of Cloud Storage
+- Security settings & Permissions
+    - Sharepoint: Shared with all
+    - OndeDrive : Private to user (sharing can be manually enabled)
+
+
+``` 
+To enable goto Document management > Enable OneDrive for Business  
+```
