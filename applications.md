@@ -9,3 +9,5 @@ Emails are sent via Exchange Online using Server Side Synchronisation or CRM for
 > Server side synchronisation
 
 Server side synchronisation allows incoming and outgoing email functionality. No additional application installation is required. 
+
+## This is an example of a change
