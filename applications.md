@@ -100,3 +100,10 @@ Delve integration can be enabled under Document Management
 - Simplifies user interfaces and increases productivity.
 - Access is controlled through Security roles.
 - Its only available for Web Client and Users. so they can personalise their Apps 
+
+## App Source
+
+- Dynamics 365 App Source allows users to get apps that are already created by other users
+- Paid as well as free apps
+- Have a number of Apps created by Microsofts ISVs and Product team
+- If you cant find an App you are looking for, then you can create one and get it registered 
