@@ -70,3 +70,17 @@ To enable goto Document management > Enable OneNote integration.
 - Yammer Enterprise license is required for integration
 - After enabling Yammer integreation, acitvity feeds are replaced by Yammer feeds
 - You can enable Yammer integration under Administration 
+
+## Wordplace collaboration with Office 365 
+
+- Collaboration is possible between Office 365 users (who do not  have a Dynamics 365 license) and Dynamics 365 users.
+- Collaboration via conversations, meetings, sharing documents and notes (With Outlook, SharePoint and OneNote)
+
+## Delve Integration
+
+- Delve manages your Dynamics 365 profile and discovers/organises information thats most relevant to you.
+- You can search content from Office 365 instances (providing that security is not compromised)
+- Information can be displayed on Dashboards
+- Delve integration can be enabled under Document Management 
+
+!> Similar to OneNote Delve integration wont work unless you have SharePoint integration enabled 
