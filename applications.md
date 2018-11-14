@@ -62,14 +62,20 @@ To enable goto Document management > Enable OneNote integration.
 ## Managing Microsoft Social Engagement 
 
 - Social Engagement allows companies to know what's happening on their social media
-- Social Engagement subscription is required and this can be configured under Administration (within Dynamics 365)
+
+```
+Social Engagement subscription is required and this can be configured under Administration (within Dynamics 365)
+```
 
 ## Yammer integration
 
 - Yammer is a private social network for companies
 - Yammer Enterprise license is required for integration
 - After enabling Yammer integreation, acitvity feeds are replaced by Yammer feeds
-- You can enable Yammer integration under Administration 
+
+```
+You can enable Yammer integration under Administration 
+```
 
 ## Wordplace collaboration with Office 365 
 
@@ -81,6 +87,16 @@ To enable goto Document management > Enable OneNote integration.
 - Delve manages your Dynamics 365 profile and discovers/organises information thats most relevant to you.
 - You can search content from Office 365 instances (providing that security is not compromised)
 - Information can be displayed on Dashboards
-- Delve integration can be enabled under Document Management 
+
+```
+Delve integration can be enabled under Document Management 
+```
 
 !> Similar to OneNote Delve integration wont work unless you have SharePoint integration enabled 
+
+## What is a Dynamics 365 App?
+
+- An App is a collection of related entities, dashboards, and business process flows that allow users to see only componenets relevent to them. 
+- Simplifies user interfaces and increases productivity.
+- Access is controlled through Security roles.
+- Its only available for Web Client and Users. so they can personalise their Apps 
