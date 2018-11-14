@@ -56,5 +56,17 @@ By default, Microsoft Dynamics 365 does not have Documents common item for Accou
 - You first need to enable OneNote Integration and then you can enalbe the OneNote feature on each entity as you require it
 
 ``` 
-To enable goto Document management > Enable OneNote integration.   
+To enable goto Document management > Enable OneNote integration. 
 ```
+
+## Managing Microsoft Social Engagement 
+
+- Social Engagement allows companies to know what's happening on their social media
+- Social Engagement subscription is required and this can be configured under Administration (within Dynamics 365)
+
+## Yammer integration
+
+- Yammer is a private social network for companies
+- Yammer Enterprise license is required for integration
+- After enabling Yammer integreation, acitvity feeds are replaced by Yammer feeds
+- You can enable Yammer integration under Administration 
